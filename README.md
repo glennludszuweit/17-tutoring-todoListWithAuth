@@ -1,4 +1,4 @@
-# MongoDB, NodeJS - Build a todo app with authentication and relational database.
+# MongoDB, NodeJS - Build a todo API with authentication and relational database.
 
 ## install mongodb to your machine
 
