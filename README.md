@@ -19,3 +19,5 @@ in your terminal
 6. sudo systemctl status mongod
 
 ## install Robo 3t from appstore
+
+# Make sure to rename sample.end to .env and add your credentials
